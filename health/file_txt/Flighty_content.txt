@@ -1,0 +1,22 @@
+Summary in Plain WordsThere is no code or tracking from Facebook in the app. There is no code or tracking from Google in the app. We do not
+require any PII (personally identifiable
+information) to use Flighty. If you enter PII to enable certain features we store it securely and never sell it.
+We use anonymous analytics to improve the app.IntroWe want to make it clear how we use your data because we appreciate your trust and handle your data carefully and
+sensibly. By
+using our services you accept this privacy policy.First, no private information is required in order to use Flighty. In the vast majority of cases, we know nothing
+private about you.What We CollectIf you enable TripIt sync, we must store a token to sync it. The token is not your email or password – we never see
+or know those.If you enable email forwarding, we must store your email address(es) to know the flights are yours.If you sign up for email news, we must store your email to send you the news.If you enter your name or photo, we keep them in the app. We do not send them to ourselves, store them, or know them.We use randomly generated tokens in the app to keep you logged in and send you push notifications. Our server
+software stores basic
+technical information, such as your IP address.Ads & AnalyticsFlighty's app collects anonymous statistics, such as the percentage of users who use particular features, to
+improve the app.Flighty's app collects nothing for, or related to, ads.How Information is UsedWe use the information we collect to operate and improve our website, apps, and customer support.We do not share personal information with outside parties except to the extent necessary to accomplish Flighty’s
+functionality.We may disclose your information in response to subpoenas, court orders, or other legal requirements; to exercise
+our legal rights or defend against legal claims; to investigate, prevent, or take action regarding illegal
+activities, suspected fraud or abuse, violations of our policies; or to protect our rights and property.In the future, we may sell to, buy, merge with, or partner with other businesses. In such transactions, user
+information may be among the transferred assets.How We Protect InformationWe implement numerous security measures to help keep your information secure. For instance, all communication
+with the app and website requires HTTPS with certificate pinning.Your RightsYou can access or delete your personal information anytime by emailing us at [email protected].California Online Privacy Protection Act ComplianceWe comply with the California Online Privacy Protection Act. We therefore will not distribute your personal
+information to outside parties without your consent.Children’s Online Privacy Protection Act ComplianceWe never collect or maintain information at our website from those we actually know are under 13, and no part of
+our website is structured to attract anyone under 13.Information for European Union CustomersBy using our services and providing your information, you authorize us to collect, use, and store your
+information outside of the European Union.International Transfers of InformationInformation may be processed, stored, and used outside of the country in which you are located. Data privacy laws
+vary across jurisdictions, and different laws may be applicable to your data depending on where it is processed,
+stored, or used.Future ChangesWe can and likely will update our privacy policy in the future. Visit this page to be aware of the policy you are
+agreeing to by using our services.

@@ -1,0 +1,28 @@
+Privacy Labels: 
+
+Data not Collected: 
+- No personal/identifiable information is required to use the Flighty app.
+
+Data Collected: 
+- Token for TripIt sync (not email or password)
+- Email address(es) for email forwarding and newsletter sign-up
+- Name and photo (kept in app)
+- Randomly generated tokens for login and push notifications
+- Basic technical information (IP address)
+
+Data Usage: 
+- Collected information is used to operate, improve, and provide customer support for Flighty's website and app.
+- Personal information is not shared with outside parties except when necessary for Flighty's functionality.
+- Information may be disclosed in response to subpoenas, court orders, legal investigations, or to protect rights and property.
+- User information may be transferred in the event of a sale, merger, or partnership with another business.
+
+Data Protection: 
+- Flighty implements various security measures to protect user data, including HTTPS with certificate pinning.
+
+User Rights: 
+- Users can access or delete their personal information by emailing Flighty at [email protected]
+
+Compliance: 
+- Flighty complies with the California Online Privacy Protection Act and the Children's Online Privacy Protection Act.
+- Information may be processed, stored, and used outside of the European Union.
+- Flighty may update their privacy policy in the future.

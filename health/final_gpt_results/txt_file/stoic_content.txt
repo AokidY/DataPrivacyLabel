@@ -1,0 +1,30 @@
+Privacy Labels:
+
+Data Linked to You:
+
+- Contact Info: We collect your name and email address when you contact us directly. If you contact us via Facebook, Instagram, LinkedIn, or Twitter, we have access to details of your social network profile.
+- Location: We offer the option to share your exact location to provide you with a personalized experience.
+- Identifiers: We do not collect your name or contact details unless you contact us directly. We have no access to your Apple ID or Google ID, your credit card information, bank account details, or any other personally identifiable information while you make purchases.
+- Other Data: When you open Stoic App, we automatically collect certain data about the App and your engagement with it, such as your device Internet Protocol (IP) address, approximate location, the pages of the App you open, time, type, frequency, and duration of your activities in the App. We collect certain non-sensitive information through HealthKit or Google Fit, such as data relating to "mindful minutes" or "activity" sections in Stoic App that facilitate providing a personalized experience. We do not have access to any content you add in the App, such as notes in the diary. We collect certain limited analytical data when you visit Stoic website, such as your device IP address, approximate location, the pages opened, time and duration of the visit.
+
+Data Not Linked to You:
+
+- We do not sell your personal information to a third party in exchange for monetary or other benefits or value.
+
+Privacy Practices:
+
+- Data Security: We protect your personal data by implementing appropriate security measures.
+- Data Retention: We keep your data as long as it is necessary for the purposes described above.
+- Do Not Track: We do not respond to Do Not Track signals.
+- Third Party Marketing: We do not use cookies for marketing, advertising, or sold to third parties purposes. The only cookies Stoic App uses are those provided by analytical services we cooperate with to obtain information on users' activity in the App.
+
+Your Choices:
+
+- Access and Correction: You can access, correct, or change your personal information. You can change most of your information yourself in Stoic App. For other cases, please contact us.
+- Opt-out: If you do not wish to receive information from Stoic, you can object at any time by clicking the link to unsubscribe or by sending us a message with your request.
+- Privacy Rights: If GDPR or CCPA applies to you, you can exercise additional privacy rights such as the right to object, the right to erasure, the right to restrict processing, the right to know, and the right to deletion.
+
+Service Providers:
+
+- We work with third-party service providers to provide website and application development, hosting, maintenance, and backup, and analytical services that support us with data analyses.
+- Revenuecat is a service provider that imposes the performance of the purchasing process. The controllers for your financial data are the entities listed above.
